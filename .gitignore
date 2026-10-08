@@ -1,0 +1,8 @@
+.vercel/
+.playwright-cli/
+node_modules/
+.env
+.env.*
+# Copias externas antiguas: esta versión usa datos y presentación dentro del HTML.
+data.js
+presentation.js

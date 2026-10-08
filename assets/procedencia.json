@@ -1,0 +1,11 @@
+{
+  "created": "2026-10-01",
+  "inputs": {
+    "estudio_noaa_guayas\\tablas\\resultados_periodos.csv": "4f2687c7037d83b80284b491d6bba07c1541673b6346aaa9fb3a49bda7c34a5c",
+    "estudio_noaa_guayas\\tablas\\resultados_anuales.csv": "e117bc1dcc8832fc5bb7caadccc876f9b54fd366151b1f47dbe6e25833fab14e",
+    "estudio_noaa_guayas\\tablas\\ranking_conjunto.csv": "64688063428625e968a737ee42674437919cb480e28dace20102214a83003d22",
+    "estudio_noaa_guayas\\tablas\\validacion_qdm_resumen.csv": "67f5c26421ccd9c5c2477ee5b793d32601b981578c598c742b9aae36d6d73aa2",
+    "estudio_noaa_guayas\\insumos\\cultivo.json": "cfc60763712c77b384303a30da5e2194afd0141793abfc527a14936af10af3b0"
+  },
+  "verified": "All period means match annual results; principal yield changes checked; weights sum to 1."
+}
